@@ -23,6 +23,12 @@ The existing Bluetooth Control System has few problems with it. One of the most 
 - To develop a system that can be controlled over the internet.  
 - To analyze the performance of the system.  
 ## Methodology
+## Apparatus
+- Arduino WeMos D1 R1  
+- Relay module  
+- Blynk android app  
+- Motors  
+- Lights etc.  
 ## Contribution to the Industry and Society
 It’s importance only can be understand when we try it and start getting the benefits from it. A lot of benefit it offers. Some are listed below:  
 - It reduces the work pressure.
@@ -32,5 +38,4 @@ It’s importance only can be understand when we try it and start getting the be
 - More secure and safe.
 - Keep track what’s going on your machines.  
 More benefits will come when we will start implementing on our world machines.  
-## Tools
-Arduino WeMos D1 R1, Relay module, Blynk android app, Motors, Lights etc.  
+
