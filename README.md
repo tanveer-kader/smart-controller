@@ -18,7 +18,7 @@ Building something physical is really a pleasure. When we see the existence of o
 **Bluetooth Controlled Systems:** The system is controlled by Bluetooth module which is connected to the remote. The remote can control all the accessories 
 in its range.
 ## Problem Statement
-The existing Bluetooth Control System has few problems with it. One of the most important is it only works in the Bluetooth range. So, distance of the system and remote is a serious issue here. If the distance between them is goes out of the boundaries it doesn’t work.  
+The existing Bluetooth Controlled System has few problems in it. One of the most important is it only works in the Bluetooth range. So, distance of the accesories and remote is a serious issue here. If the distance between them is goes out of the boundaries it doesn’t work.  
 ## Objective of the Work  
 - To develop a system that can be controlled over the internet.  
 - To analyze the performance of the system.  
