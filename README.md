@@ -13,7 +13,7 @@ An IoT based system that controls the accessories of home. One can control the s
 - [Contribution to the Industry and Society](#contribution-to-the-industry-and-society)
 ## Introduction  
 ## Motivation  
-Building something physical is really a pleasure. When we see the existence of our work it pushes us to do more. It makes us more confident. This project is something like that. The Smart Home System has no boundaries as it can be controlled from anywhere over the internet connection. It is a very interesting thing. It increased our curiosity. So, we went for it.  
+Building something physical is really a pleasure. When we see the existence of our work it pushes us to do more. It makes us more confident. This project is something like that. The Smart Control System has no boundaries as it can be controlled from anywhere over the internet connection. It is a very interesting thing. It increased our curiosity. So, we went for it.  
 ## Existing Works  
 **Bluetooth Controlled Systems:** The system is controlled by Bluetooth module which is connected to the remote. The remote can control all the accessories 
 in its range.
