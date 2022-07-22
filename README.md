@@ -10,6 +10,8 @@ It’s a prototype of a ***Smart Home System***. Where all the electrical and el
 - [Existing Works](#existing-works)
 - [Problem Statement](#problem-statement)
 - [Objective of the work](#objective-of-the-work)
+- [Methodology](#methodology)
+- [Contribution to the Industry and Society](#contribution-to-the-industry-and-society)
 ## Introduction  
 ## Motivation  
 Building something physical is really a pleasure. When we see the existence of our work it pushes us to do more. It makes us more confident. This project is something like that. The Smart Home System has no boundaries as it can be controlled from anywhere over the internet connection. It is a very interesting thing. It increased our curiosity. So, we went for it.  
@@ -21,5 +23,15 @@ The existing Bluetooth Home Automation has few problems with it. One of the most
 ## Objective of the Work  
 - To develop a system that can be controlled over the internet.  
 - To analyze the performance of the system.  
+## Methodology
+## Contribution to the Industry and Society
+It’s importance only can be understand when we try it and start getting the benefits from it. A lot of benefit it offers. Some are listed below:  
+- It reduces the work pressure.
+- It is easy to control.
+- It gives comfort.
+- Can be controlled from anywhere.
+- More secure and safe.
+- Keep track what’s going on your machines.  
+More benefits will come when we will start implementing on our world machines.  
 ## Tools
 Arduino WeMos D1 R1, Relay module, Blynk android app, Motors, Lights etc.  
