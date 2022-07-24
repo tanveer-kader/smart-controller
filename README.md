@@ -10,6 +10,9 @@ An IoT based system that controls the accessories of home. One can control the s
 - [Problem Statement](#problem-statement)
 - [Objective of the work](#objective-of-the-work)
 - [Methodology](#methodology)
+- [Circuit Diagram](#circuit-diagram)
+- [Apparatus](#apparatus)
+- [Blynk App Interface](#blynk-app-interface)
 - [Contribution to the Industry and Society](#contribution-to-the-industry-and-society)
 ## Introduction  
 ## Motivation  
@@ -31,10 +34,10 @@ The existing Bluetooth Controlled System has few problems in it. One of the most
 - Relay module  
 - Blynk android app  
 - Motors  
-- Lights etc.  
+- Lights
+- Wires etc.  
 ## Blynk App Interface  
 ![remote](blynkAppInterface/blynkAppInterface.png)
-<img src="blynkAppInterface/blynkAppInterface.png" width=200"/>
 ## Contribution to the Industry and Society
 It’s importance only can be understand when we try it and start getting the benefits from it. A lot of benefit it offers. Some are listed below:  
 - It reduces the work pressure.
