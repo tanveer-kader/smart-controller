@@ -23,7 +23,9 @@ The existing Bluetooth Controlled System has few problems in it. One of the most
 - To develop a system that can be controlled over the internet.  
 - To analyze the performance of the system.  
 ## Methodology
-![methodology](methodology/methodology.png)
+![methodology](methodology/methodology.png)  
+## Circuit Diagram  
+![circuitDiagram](circuitDiagram/circuitDiagram.png)
 ## Apparatus
 - Arduino WeMos D1 R1  
 - Relay module  
