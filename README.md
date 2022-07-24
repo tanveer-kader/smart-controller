@@ -33,7 +33,7 @@ The existing Bluetooth Controlled System has few problems in it. One of the most
 - Motors  
 - Lights etc.  
 ## Blynk App Interface  
-![remote](blynkAppInterface/remote.png) ![motor1](blynkAppInterface/motor1.png) ![motor2](blynkAppInterface/motor2.png) ![bulb](blynkAppInterface/bulb.png)
+![remote](blynkAppInterface/blynkAppInterface.png | width = 200)
 ## Contribution to the Industry and Society
 It’s importance only can be understand when we try it and start getting the benefits from it. A lot of benefit it offers. Some are listed below:  
 - It reduces the work pressure.
